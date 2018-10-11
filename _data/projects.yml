@@ -1,7 +1,6 @@
 -
- name: 'Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra'
-   description: > 
-           Exploring the effects of irradiation of hot Jupiters on the atmospheric structure. We also explore 
-           the photometric properties of a host of models.
-     image: 
-     url: 
+  name: 'Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra'
+  description: > 
+    Exploring the effects of irradiation of hot Jupiters on the atmospheric structure. We also explore the photometric properties of a host of models.
+  image: 
+  url: 
