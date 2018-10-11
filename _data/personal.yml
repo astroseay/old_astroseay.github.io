@@ -1,34 +1,36 @@
-name: Ian Li
+name: Christopher R. Seay
 
-label: UI Designer
+label: astrophysicist, student
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: seay@strw.leidenuniv.nl
 
 phone: 
 
-department: Android UX
+department: astronomy
 
-institution: Google
+institution: universiteit leiden
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  Huygens Laboratory 401      
+  Leiden Observatory
+  Neils Bohrweg 2
+  2333 CA Leiden, Netherlands
 
 profiles:
   - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    network: GitHub
+    username: astroseay
+    url: https://github.com/astroseay/
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/christopher-seay-8b1b44a8/
   -
     network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    username: astroseay
+    url: https://twitter.com/astroseay/
 
 intro:
   title: Hello!
