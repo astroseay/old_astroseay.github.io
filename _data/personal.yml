@@ -8,9 +8,9 @@ email: seay@strw.leidenuniv.nl
 
 phone: 
 
-department: astronomy
+department: Astronomy department
 
-institution: universiteit leiden
+institution: Universiteit Leiden
 
 mailing_address: >
   Huygens Laboratory 401      
@@ -33,14 +33,9 @@ profiles:
     url: https://twitter.com/astroseay/
 
 intro:
-  title: Hello!
+  title: hey there,
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+          I'm a Master's student in Astronomy at [Universiteit Leiden](https://www.universiteitleiden.nl/en/science/astronomy).
+    Before Leiden, I was a Bachelor student and later Junior Specialist at UC Santa Cruz in the
+    [Astronomy department](http://astro.ucsc.edu/). I have lots of interests, but principally I
+    research exoplanetary atmospheres and interiors!
