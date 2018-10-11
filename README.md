@@ -1,7 +1,7 @@
 # [astroseay.github.io](http://astroseay.github.io)
 
 
-gully.github.io
+personal website
 
 The webpage template is from:
 
